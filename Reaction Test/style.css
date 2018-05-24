@@ -1,0 +1,37 @@
+body {
+    background: white;
+}
+
+.container {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+img {
+    position: absolute;
+    margin-left: 21%;
+    width: 50%;
+    height: 75%;
+}
+
+.score {
+    position: absolute;
+    width: 5%;
+    text-align: center;
+    font-size: 2em;
+    margin-left: 5%;
+    margin-top: 20%;
+}
+
+.buttonBox {
+    position: absolute;
+    width: 100vw;
+    margin-top: 39%;
+    margin-left: 15%;
+}
+
+button {
+    width: 33.333%;
+    height: 60px;
+}
